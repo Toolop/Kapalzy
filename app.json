@@ -1,12 +1,12 @@
 {
   "expo": {
-    "name": "uas",
-    "slug": "uas",
+    "name": "Kapalzy",
+    "slug": "kapalzy",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/icon.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -20,13 +20,14 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "tothepointcode.kapalzy",
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#FFFFFF"
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/icon.png"
     }
   }
 }

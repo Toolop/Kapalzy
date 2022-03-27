@@ -1,0 +1,57 @@
+[
+    {
+        "Id": 1,
+        "Asal": "Bakaheuni",
+        "Tujuan": "Merak",
+        "Tanggal": "Kamis, 24 Maret 2022",
+        "Waktu": "07:00 WIB",
+        "Layanan": "Express",
+        "Usia": "Dewasa",
+        "total": "65000",
+        "jumlah": "1"
+    }, 
+    {
+        "Id": 2,
+        "Asal": "Merak",
+        "Tujuan": "Bakaheuni",
+        "Tanggal": "Kamis, 24 Maret 2022",
+        "Waktu": "20:00 WIB",
+        "Layanan": "Express",
+        "Usia": "Dewasa",
+        "total": "130000",
+        "jumlah": "2"
+    }, 
+    {
+        "Id": 3,
+        "Asal": "Bakaheuni",
+        "Tujuan": "Merak",
+        "Tanggal": "Sabtu, 23 Maret 2022",
+        "Waktu": "12:00 WIB",
+        "Layanan": "Normal",
+        "Usia": "Dewasa",
+        "total": "45000",
+        "jumlah": "1"
+    },
+    {
+        "Id": 4,
+        "Asal": "Bakaheuni",
+        "Tujuan": "Merak",
+        "Tanggal": "Sabtu, 23 Maret 2022",
+        "Waktu": "20:00 WIB",
+        "Layanan": "Express",
+        "Usia": "Dewasa",
+        "total": "65000",
+        "jumlah": "1"
+    },
+    {
+        "Id": 5,
+        "Asal": "Bakaheuni",
+        "Tujuan": "Merak",
+        "Tanggal": "Kamis, 24 Maret 2022",
+        "Waktu": "07:00 WIB",
+        "Layanan": "Reguler",
+        "Usia": "Dewasa",
+        "total": "50000",
+        "jumlah": "1"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "Id": 1,
+        "Asal": "Bakaheuni",
+        "AsalProvinsi" : "Lampung",
+        "Tujuan": "Merak",
+        "TujuanProvinsi" : "Jakarta",
+        "Layanan": "Eksekutif",
+        "Harga" : 70000
+    }, 
+    {
+        "Id": 2,
+        "Asal": "Merak",
+        "AsalProvinsi" : "Jakarta",
+        "Tujuan": "Bakaheuni",
+        "TujuanProvinsi" : "Lampung",
+        "Layanan": "Reguler",
+        "Harga" : 65000
+    }, 
+]
